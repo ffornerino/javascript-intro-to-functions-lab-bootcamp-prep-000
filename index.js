@@ -23,10 +23,10 @@ function sayHiToGrandma(string){
   var iLoveYou  = "I love you, Grandma."
   
   if (string === lowercase){
-    console.log("I can't hear you!")
+    return console.log("I can't hear you!")
   } else if(string === uppercase ){
-    console.log("YES INDEED!")
+    return console.log("YES INDEED!")
   } else if (string === iLoveYou) {
-    console.log("I love you, too.")
+    return console.log("I love you, too.")
   } 
 }
