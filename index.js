@@ -10,9 +10,6 @@ function logShout(string){
    var uppercase = string.toUpperCase()
 }
  
-  
-  
-}
 
 function logWhisper(string){
   
