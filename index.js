@@ -12,10 +12,11 @@ function logShout(string){
 }
  
 
-/*function logWhisper(string){
-  
+function logWhisper(string){
+  var lowercase = string.toLowerCase()
+  return true
 }
 
-function sayHiToGrandma(string){
+/*function sayHiToGrandma(string){
   
 }*/
