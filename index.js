@@ -7,8 +7,8 @@ function whisper(string){
 }
 
 function logShout(string){
-  console.log(string)
   var uppercase = "HELLO!"
+   console.log("hello!")
   if (uppercase.toUpperCase() === uppercase) {
     
   }
