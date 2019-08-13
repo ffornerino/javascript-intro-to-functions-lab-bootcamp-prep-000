@@ -8,13 +8,13 @@ function whisper(string){
 
 function logShout(string){
    var uppercase = string.toUpperCase()
-   return true
+   return console.log(string)
 }
  
 
 function logWhisper(string){
   var lowercase = string.toLowerCase()
-  return true
+  return console.log(string)
 }
 
 /*function sayHiToGrandma(string){
