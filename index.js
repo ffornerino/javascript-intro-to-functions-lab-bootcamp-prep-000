@@ -28,6 +28,6 @@ function sayHiToGrandma(string){
   } else if( string === uppercase ){
     console.log("YES INDEED!")
   } else if (string === iLoveYou) {
-    console.log()
-  } else
+    console.log("I love you, too.")
+  } 
 }
